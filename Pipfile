@@ -4,8 +4,25 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+slackclient = "*"
 
 [dev-packages]
+
+"pep8" = "*"
+pylint = "*"
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [requires]
 python_version = "3.6"
